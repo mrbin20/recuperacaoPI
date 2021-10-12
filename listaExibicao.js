@@ -7,7 +7,7 @@ Liste e exiba somene os aparelhos com pronto marcado como false
 
 const consertos = require('./consertos');
 let listaProntoTrue = consertos.filter(item => item.pronto === true)
-let listaProntoFalse = consertos.filter(item => item.pronto === true)
+let listaProntoFalse = consertos.filter(item => item.pronto === false)
 
 function listaPtrue() {
 
