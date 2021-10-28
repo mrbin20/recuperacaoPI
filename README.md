@@ -22,6 +22,5 @@ Liste os aparelhos exibindo o modelo do aparelho juntamente dos itens
 consertados e aplique uma soma nos valor dos consertos e exibir no console somente os
 aparelhos que estão pronto marcado como true
 
-
 Instrução:
- Apoś baixar o projeto, executar o arquivo listaExibicao.js  
+ Apoś baixar o projeto, executar o arquivo listaExibicao.js
