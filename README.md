@@ -1,4 +1,4 @@
-# Recupeação PI
+# Recuperação PI
 Micro desafio - Passo 1
 
 Crie um array de objetos consertos que tenha como atributos: aparelho (string),
